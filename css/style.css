@@ -1,0 +1,64 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.caixa1 {
+  width: 300px;
+  height: 200px;
+  border: 1px solid;
+  border-color: red;
+}
+.caixa2 {
+  width: 300px;
+  height: 200px;
+  margin: 50px;
+  border: 1px solid;
+  border-color: red;
+}
+.caixa3 {
+  width: 300px;
+  height: 200px;
+  padding: 50px;
+  border: 1px solid;
+  border-color: red;
+}
+.caixa4 {
+  width: 200px;
+  height: 200px;
+  padding: 5px;
+  margin-top: 5px;
+  margin-left: 5px;
+  border: 1px solid;
+  border-color: blue;
+}
+.caixa5 {
+  width: 200px;
+  height: 200px;
+  padding: 5px;
+  margin-top: 5px;
+  margin-left: 5px;
+  border: 1px solid;
+  border-color: blue;
+  overflow: hidden;
+}
+.caixa6 {
+  width: 200px;
+  height: 200px;
+  padding: 5px;
+  margin-top: 5px;
+  margin-left: 5px;
+  border: 1px solid;
+  border-color: blue;
+  overflow-y: scroll; 
+}
+.caixa7 {
+  width: 200px;
+  height: 200px;
+  padding: 5px;
+  margin-top: 5px;
+  margin-left: 5px;
+  border: 1px solid;
+  border-color: blue;
+  overflow-y: auto; 
+}
